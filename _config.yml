@@ -1,24 +1,31 @@
+name: Creek
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
+layout_spectrum: 0.34118047563073295
 typography_spectrum: 0.5208934604783202
 color:
-  brandStrength: 0.9226611921810868
-  lightness: 0.12081315052483489
-  saturation: 0.7191671451469791
-  rhythmicContrast: 0.6591232244630741
   brandColors:
     - '#80BA27'
     - '#E30917'
     - '#C3DF9B'
     - '#7C7A7B'
     - '#F58A93'
-github: true
-layout_spectrum: 0.34118047563073295
+  brandStrength: 0.9226611921810868
+  lightness: 0.12081315052483489
+  saturation: 0.7191671451469791
+  rhythmicContrast: 0.6591232244630741
+purpose:
+  - type: contact
+    label: Contact Us Now!
+    url: 'mailto:info@creek-transportation.com'
+title: When you care enough to send the very best
+description: Transport Solutions & Means
 author:
   name: Moemen Fouad
-  email: moemen@projectized.co
   url: 'http://projectized.co'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
-name: Creek
+  email: moemen@projectized.co
 navigation:
   - name: About Us
     id: 19aa20fb-9edd-4c4c-8092-ea385ac8be16
@@ -26,12 +33,8 @@ navigation:
   - name: 'Mission, Vision & Values'
     id: 68e90db3-95b1-454c-8cba-272e98329b69
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
-title: When you care enough to send the very best
+  - name: Services
+    id: d55961db-d434-45b9-9d9e-81478ebc1e75
+    type: content
 content: []
-description: Transport Solutions & Means
-purpose:
-  - type: contact
-    url: 'mailto:info@creek-transportation.com'
-    label: Contact Us Now!
+github: true
