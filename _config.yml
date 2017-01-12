@@ -1,5 +1,5 @@
-layout_spectrum: 0.799291926631704
-typography_spectrum: 0.9431364174965436
+layout_spectrum: 0.9079058195132357
+typography_spectrum: 0.7643263338220371
 color:
   brandColors:
     - '#80BA27'
@@ -7,10 +7,10 @@ color:
     - '#C3DF9B'
     - '#7C7A7B'
     - '#F58A93'
-  brandStrength: 0.6827810223976907
-  lightness: 0.8217979435396777
-  saturation: 0.9876547358208105
-  rhythmicContrast: 0.15522967167014237
+  brandStrength: 0.43870218592474586
+  lightness: 0.8061830443002763
+  saturation: 0.6200518966364758
+  rhythmicContrast: 0.4972995656870748
 github: true
 author:
   name: Moemen Fouad
