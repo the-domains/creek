@@ -1,4 +1,5 @@
-typography_spectrum: 0.9707566381407219
+layout_spectrum: 0.5669919214883616
+typography_spectrum: 0.8530721274785475
 color:
   brandColors:
     - '#80BA27'
@@ -6,12 +7,11 @@ color:
     - '#C3DF9B'
     - '#7C7A7B'
     - '#F58A93'
-  brandStrength: 0.019024242875120133
-  lightness: 0.7502559073094168
-  saturation: 0.7436768026576184
-  rhythmicContrast: 0.5682414715624609
+  brandStrength: 0.5036104643869554
+  lightness: 0.8211866041205564
+  saturation: 0.9864470887317848
+  rhythmicContrast: 0.984071368395563
 github: true
-layout_spectrum: 0.8787054632880753
 author:
   name: Moemen Fouad
   url: 'http://projectized.co'
