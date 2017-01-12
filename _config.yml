@@ -29,6 +29,9 @@ navigation:
   - name: 'Fleet Gallery '
     id: 8cbc138d-9781-4ba2-9a37-686e5b8effb2
     type: content
+  - name: About Us
+    id: 19aa20fb-9edd-4c4c-8092-ea385ac8be16
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
 title: When you care enough to send the very best
