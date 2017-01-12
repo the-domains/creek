@@ -1,4 +1,3 @@
-layout_spectrum: 0.9079058195132357
 typography_spectrum: 0.7643263338220371
 color:
   brandColors:
@@ -12,6 +11,7 @@ color:
   saturation: 0.6200518966364758
   rhythmicContrast: 0.4972995656870748
 github: true
+layout_spectrum: 0.9079058195132357
 author:
   name: Moemen Fouad
   url: 'http://projectized.co'
@@ -20,9 +20,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
 name: Creek General Transport
 navigation:
-  - name: About Us
-    id: 19aa20fb-9edd-4c4c-8092-ea385ac8be16
-    type: content
   - name: 'Mission, Vision & Values'
     id: 68e90db3-95b1-454c-8cba-272e98329b69
     type: content
