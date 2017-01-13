@@ -32,8 +32,11 @@ navigation:
   - name: Services
     id: d55961db-d434-45b9-9d9e-81478ebc1e75
     type: content
-  - name: 'Fleet Gallery '
-    id: 8cbc138d-9781-4ba2-9a37-686e5b8effb2
+  - name: 'Gallery '
+    id: 41eab09d-d285-418c-9878-2251fee67833
+    type: content
+  - name: Contact Us
+    id: b0ffd366-b54a-4fb0-b58b-be09631f0ee0
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
