@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: 'Contact Us:'
-dateModified: '2017-01-13T16:54:43.738Z'
-datePublished: '2017-01-13T16:54:45.307Z'
+dateModified: '2017-01-13T17:36:11.131Z'
+datePublished: '2017-01-13T17:36:11.956Z'
 title: WE WANT TO HEAR FROM YOU!
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-01-13T16:43:55.169Z'
 url: we-want-to-hear-from-you/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![Contact us](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c985531-2c36-44f8-95c8-fda5d9defa77.jpg)
