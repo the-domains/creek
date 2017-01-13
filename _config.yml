@@ -45,8 +45,8 @@ content: []
 description: Transport Solutions & Services
 purpose:
   - type: contact
-    label: Contact Now!
-    url: 'mailto:info@creek-transportation.com'
+    label: Email Us
+    url: 'mailto:info@creek-transport.com'
   - type: contact
     url: 'tel:00971065281228'
     label: Call 00971065281228
