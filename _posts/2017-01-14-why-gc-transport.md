@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Safety
-dateModified: '2017-01-14T10:51:31.895Z'
-datePublished: '2017-01-14T10:51:32.778Z'
+dateModified: '2017-01-14T10:52:41.607Z'
+datePublished: '2017-01-14T10:52:42.517Z'
 title: Why GC Transport?
 author: []
 publisher: {}
