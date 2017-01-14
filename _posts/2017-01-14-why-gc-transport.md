@@ -1,16 +1,16 @@
 ---
 inFeed: false
 description: Safety
-dateModified: '2017-01-14T10:49:21.591Z'
-datePublished: '2017-01-14T10:50:57.763Z'
+dateModified: '2017-01-14T10:51:31.895Z'
+datePublished: '2017-01-14T10:51:32.778Z'
 title: Why GC Transport?
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-14-why-gc-transport.md
 starred: false
 datePublishedOriginal: '2017-01-14T10:50:57.763Z'
-sourcePath: _posts/2017-01-14-why-gc-transport.md
 url: why-gc-transport/index.html
 _type: Blurb
 
