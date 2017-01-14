@@ -1,5 +1,6 @@
-layout_spectrum: 0.14255154081767812
 typography_spectrum: 0.18866557129354464
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#80BA27'
@@ -11,12 +12,11 @@ color:
   lightness: 0.9197081964618831
   saturation: 0.9230817967069584
   rhythmicContrast: 0.05193650695025036
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.14255154081767812
 analytics:
   facebook: ''
 author:
@@ -55,5 +55,5 @@ purpose:
     label: Contact Now!
     url: 'mailto:info@creek-transport.com'
   - type: contact
-    label: Call Us
+    label: Call Now!
     url: 'tel:00971502758333'
