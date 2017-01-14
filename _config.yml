@@ -1,15 +1,6 @@
-name: Creek General Transport
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
-layout_spectrum: 0.9079058195132357
 typography_spectrum: 0.7643263338220371
-analytics:
-  facebook: ''
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#80BA27'
@@ -21,21 +12,20 @@ color:
   lightness: 0.8061830443002763
   saturation: 0.6200518966364758
   rhythmicContrast: 0.4972995656870748
-purpose:
-  - type: contact
-    label: Email Us
-    url: 'mailto:info@creek-transport.com'
-  - type: contact
-    label: Call 00971065281228
-    url: 'tel:00971065281228'
-title: When you care enough to send the very best
-description: Transport Solutions & Services
+github: true
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.9079058195132357
+analytics:
+  facebook: ''
 author:
   name: Projectized.co
   url: 'http://projectized.co'
   email: moemen@projectized.co
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
+name: Creek General Transport
 navigation:
   - name: About Us
     id: 19aa20fb-9edd-4c4c-8092-ea385ac8be16
@@ -52,5 +42,15 @@ navigation:
   - name: Contact Us
     id: b0ffd366-b54a-4fb0-b58b-be09631f0ee0
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
+title: When you care enough to send the very best
 content: []
-github: true
+description: Transport Solutions & Services
+purpose:
+  - type: contact
+    label: Contact Now!
+    url: 'mailto:info@creek-transport.com'
+  - type: contact
+    label: Call 00971065281228
+    url: 'tel:00971065281228'
