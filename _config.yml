@@ -42,6 +42,9 @@ navigation:
   - name: Contact Us
     id: b0ffd366-b54a-4fb0-b58b-be09631f0ee0
     type: content
+  - name: Why GC Transport?
+    id: 46276743-3ca0-4bae-a93d-8fecea1c9804
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
 title: When you care enough to send the very best
