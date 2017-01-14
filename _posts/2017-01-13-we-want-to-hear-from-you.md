@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Contact Us:'
-dateModified: '2017-01-14T10:52:41.607Z'
-datePublished: '2017-01-14T10:52:42.516Z'
+dateModified: '2017-01-14T11:11:14.423Z'
+datePublished: '2017-01-14T11:11:15.238Z'
 title: WE WANT TO HEAR FROM YOU!
 author: []
 publisher: {}
@@ -19,15 +19,10 @@ _type: Blurb
 
 Contact Us:
 
-Address:
+Address: Layya - Near Port Khaled, Sharjah, UAE
 
-Al LAIA - Oposite Port Khaled
+Tel: +971 6 5285151
 
-Tel:
-
-Fax:
+Fax: +971 6 5282405
 
 Email: info@creek-transport.com
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c11d643-b9e9-48c7-9de7-5401918cf19b.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7647ecc0-38f9-4e99-b186-356ccc44c5dd.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/629d5e4f-d321-4342-86a6-49ecd8bb33a6.png)
