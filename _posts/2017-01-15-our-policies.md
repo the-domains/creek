@@ -1,21 +1,24 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Creek is concerned about the Health and Safety of our employees and the
   community.
-dateModified: '2017-01-15T19:18:21.936Z'
-datePublished: '2017-01-15T19:18:22.928Z'
-title: 'Our Policies '
+dateModified: '2017-01-17T14:01:48.755Z'
+datePublished: '2017-01-17T14:01:51.725Z'
+title: Our Policies
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-01-15-our-policies.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-01-15T19:18:22.928Z'
-sourcePath: _posts/2017-01-15-our-policies.md
+url: our-policies/index.html
 _type: Blurb
 
 ---
-# Our Policies ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92e0bb81-85f8-41d1-a6b0-55b0672536da.jpg)
+# Our Policies
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92e0bb81-85f8-41d1-a6b0-55b0672536da.jpg)
 
 ## Driving Policy
 
