@@ -26,7 +26,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
 name: Creek General Transport
-url: 'http://thegrid.ai/creek'
+url: 'http://creektransport.com'
 navigation:
   - name: About Us
     id: 19aa20fb-9edd-4c4c-8092-ea385ac8be16
@@ -42,6 +42,9 @@ navigation:
     type: content
   - name: Contact Us
     id: b0ffd366-b54a-4fb0-b58b-be09631f0ee0
+    type: content
+  - name: Our Policies
+    id: cc2a6386-b102-42c5-b814-df74f625df50
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
