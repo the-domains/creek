@@ -55,47 +55,5 @@ navigation:
   - name: Contact Us
     id: b0ffd366-b54a-4fb0-b58b-be09631f0ee0
     type: content
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ee6463b-60e5-40bc-8adf-e444ec8d873f.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ee6463b-60e5-40bc-8adf-e444ec8d873f.png
-    metadata:
-      '@type': MediaObject
-      '@context': 'http://schema.org'
-      keywords: []
-      publisher:
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-      author: []
-      starred: false
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53f3caba-0173-4ef5-9ba4-b017953e2203.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/53f3caba-0173-4ef5-9ba4-b017953e2203.png
-    metadata:
-      '@type': MediaObject
-      '@context': 'http://schema.org'
-      keywords: []
-      publisher:
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-      author: []
-      starred: false
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 github: true
