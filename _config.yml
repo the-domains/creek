@@ -25,6 +25,9 @@ purpose:
   - type: contact
     label: Contact Now!
     url: 'mailto:info@creek-transport.com'
+  - type: contact
+    label: Call Now!
+    url: 'tel:00971502758333'
 title: When you care enough to send the very best
 description: Transport Solutions & Services
 author:
