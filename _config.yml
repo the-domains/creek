@@ -1,5 +1,15 @@
+name: Creek General Transport
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
 layout_spectrum: 0.6935701650125665
 typography_spectrum: 0.40843358670573426
+analytics:
+  facebook: ''
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#80BA27'
@@ -11,24 +21,18 @@ color:
   lightness: 0.7466417526306197
   saturation: 0.8611034784469717
   rhythmicContrast: 0.6948694429748534
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
-github: true
-opengraph:
-  type: ''
-  appId: ''
-analytics:
-  facebook: ''
+purpose:
+  - type: contact
+    label: Contact Now!
+    url: 'mailto:info@creek-transport.com'
+title: When you care enough to send the very best
+description: Transport Solutions & Services
 author:
   name: Projectized.co
   url: 'http://projectized.co'
   email: moemen@projectized.co
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
-name: Creek General Transport
-url: 'http://creektransport.com'
+content_rating:
+  adult: false
 navigation:
   - name: About Us
     id: 19aa20fb-9edd-4c4c-8092-ea385ac8be16
@@ -48,9 +52,6 @@ navigation:
   - name: Contact Us
     id: b0ffd366-b54a-4fb0-b58b-be09631f0ee0
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
-title: When you care enough to send the very best
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -60,19 +61,16 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ee6463b-60e5-40bc-8adf-e444ec8d873f.png
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      datePublished: null
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -84,28 +82,17 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/53f3caba-0173-4ef5-9ba4-b017953e2203.png
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      datePublished: null
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Transport Solutions & Services
-purpose:
-  - type: contact
-    label: Contact Now!
-    url: 'mailto:info@creek-transport.com'
-  - type: contact
-    label: Call Now!
-    url: 'tel:00971502758333'
+github: true
