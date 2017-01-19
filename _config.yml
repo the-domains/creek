@@ -1,15 +1,5 @@
-name: Creek General Transport
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
-layout_spectrum: 0.6935701650125665
-typography_spectrum: 0.40843358670573426
-analytics:
-  facebook: ''
-opengraph:
-  type: ''
-  appId: ''
+layout_spectrum: 0.4362337824037428
+typography_spectrum: 0.40097677528185055
 color:
   brandColors:
     - '#80BA27'
@@ -17,10 +7,22 @@ color:
     - '#C3DF9B'
     - '#7C7A7B'
     - '#F58A93'
-  brandStrength: 0.9442001485506459
-  lightness: 0.7466417526306197
-  saturation: 0.8611034784469717
-  rhythmicContrast: 0.6948694429748534
+  brandStrength: 0.9406777369809143
+  lightness: 0.7419894306303583
+  saturation: 0.8665411694974887
+  rhythmicContrast: 0.8413450415837256
+coverPrefs:
+  filter: false
+name: Creek General Transport
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
+analytics:
+  facebook: ''
+opengraph:
+  type: ''
+  appId: ''
 purpose:
   - type: contact
     label: Contact Now!
@@ -73,7 +75,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
