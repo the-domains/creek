@@ -1,7 +1,7 @@
 ---
-title: Why C. G. Transport?
-datePublished: '2017-01-20T10:08:13.134Z'
-dateModified: '2017-01-20T10:08:03.383Z'
+title: Why Creek G. Transport?
+datePublished: '2017-01-20T10:08:44.468Z'
+dateModified: '2017-01-20T10:08:42.908Z'
 publisher: {}
 author: []
 inFeed: false
@@ -20,7 +20,7 @@ url: why-gc-transport/index.html
 _type: Blurb
 
 ---
-# Why C. G. Transport?
+# Why Creek G. Transport?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab8302f1-b4f9-468c-855f-ca60d2a32c30.png)
 
 ## Safety:
