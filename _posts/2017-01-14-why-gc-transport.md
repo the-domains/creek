@@ -1,7 +1,7 @@
 ---
 title: Why Creek G. Transport?
-datePublished: '2017-01-20T10:08:44.468Z'
-dateModified: '2017-01-20T10:08:42.908Z'
+datePublished: '2017-01-20T10:11:33.253Z'
+dateModified: '2017-01-20T10:11:28.302Z'
 publisher: {}
 author: []
 inFeed: false
@@ -13,9 +13,9 @@ description: >-
   prevent the contamination and depletion of natural resources and that our
   drivers are well trained on the HSE standards.
 via: {}
+sourcePath: _posts/2017-01-14-why-gc-transport.md
 starred: false
 datePublishedOriginal: '2017-01-14T10:50:57.763Z'
-sourcePath: _posts/2017-01-14-why-gc-transport.md
 url: why-gc-transport/index.html
 _type: Blurb
 
