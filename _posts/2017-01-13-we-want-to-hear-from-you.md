@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Contact Us:'
-dateModified: '2017-01-14T11:11:14.423Z'
-datePublished: '2017-01-14T11:11:15.238Z'
+dateModified: '2017-01-20T10:11:28.302Z'
+datePublished: '2017-01-20T10:11:34.276Z'
 title: WE WANT TO HEAR FROM YOU!
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ _type: Blurb
 
 Contact Us:
 
-Address: Layya - Near Port Khaled, Sharjah, UAE
+Address: Layya - Near Port Khalid, Sharjah, UAE
 
 Tel: +971 6 5285151
 
