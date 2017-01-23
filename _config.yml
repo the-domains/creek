@@ -29,14 +29,14 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
 name: Creek Transport
 navigation:
+  - name: Why GC Transport?
+    id: 46276743-3ca0-4bae-a93d-8fecea1c9804
+    type: content
   - name: About Us
     id: 19aa20fb-9edd-4c4c-8092-ea385ac8be16
     type: content
   - name: 'Mission, Vision & Values'
     id: 68e90db3-95b1-454c-8cba-272e98329b69
-    type: content
-  - name: Why GC Transport?
-    id: 46276743-3ca0-4bae-a93d-8fecea1c9804
     type: content
   - name: Services
     id: d55961db-d434-45b9-9d9e-81478ebc1e75
