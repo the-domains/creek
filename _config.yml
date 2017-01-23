@@ -23,7 +23,10 @@ color:
   lightness: 0.7419894306303583
   saturation: 0.8665411694974887
   rhythmicContrast: 0.8413450415837256
-purpose: []
+purpose:
+  - type: contact
+    url: 'tel:00971502758333'
+    label: Call Now!
 title: When you care enough to send the very best
 description: Transport Solutions & Services
 author:
