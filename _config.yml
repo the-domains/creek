@@ -1,17 +1,6 @@
-name: Creek Transport
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
-layout_spectrum: 0.4362337824037428
 typography_spectrum: 0.40097677528185055
-analytics:
-  facebook: ''
-  google: UA-90536695-1
-  twitter: ''
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#80BA27'
@@ -23,21 +12,22 @@ color:
   lightness: 0.7419894306303583
   saturation: 0.8665411694974887
   rhythmicContrast: 0.8413450415837256
-purpose:
-  - type: contact
-    url: 'tel:00971502758333'
-    label: Call Now!
-  - type: contact
-    url: 'mailto:info@creektransport.com'
-    label: Email Us
-title: When you care enough to send the very best
-description: Transport Solutions & Services
+github: true
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.4362337824037428
+analytics:
+  facebook: ''
+  google: UA-90536695-1
+  twitter: ''
 author:
   name: Projectized.co
   url: 'http://projectized.co'
   email: moemen@projectized.co
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
+name: Creek Transport
 navigation:
   - name: About Us
     id: 19aa20fb-9edd-4c4c-8092-ea385ac8be16
@@ -57,6 +47,12 @@ navigation:
   - name: Contact Us
     id: b0ffd366-b54a-4fb0-b58b-be09631f0ee0
     type: content
+  - name: Twitter
+    url: 'https://twitter.com/creek_transport'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
+title: When you care enough to send the very best
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -79,4 +75,11 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
+description: Transport Solutions & Services
+purpose:
+  - type: contact
+    url: 'tel:00971502758333'
+    label: Call Now!
+  - type: contact
+    url: 'mailto:info@creektransport.com'
+    label: Email Us
