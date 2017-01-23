@@ -1,21 +1,10 @@
-layout_spectrum: 0.24705806296180455
-typography_spectrum: 0.40982067722246274
-color:
-  brandColors:
-    - '#80BA27'
-    - '#E30917'
-    - '#C3DF9B'
-    - '#7C7A7B'
-    - '#F58A93'
-  brandStrength: 0.8794165954102605
-  lightness: 0.9415025360781772
-  saturation: 0.2726411907148022
-  rhythmicContrast: 0.6018944181040814
 name: Creek Transport
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
+layout_spectrum: 0.4362337824037428
+typography_spectrum: 0.40097677528185055
 analytics:
   facebook: ''
   google: UA-90536695-1
@@ -23,10 +12,18 @@ analytics:
 opengraph:
   type: ''
   appId: ''
+color:
+  brandColors:
+    - '#80BA27'
+    - '#E30917'
+    - '#C3DF9B'
+    - '#7C7A7B'
+    - '#F58A93'
+  brandStrength: 0.9406777369809143
+  lightness: 0.7419894306303583
+  saturation: 0.8665411694974887
+  rhythmicContrast: 0.8413450415837256
 purpose:
-  - type: contact
-    label: Email Us
-    url: 'mailto:info@creek-transport.com'
   - type: contact
     label: Call Now!
     url: 'tel:00971502758333'
