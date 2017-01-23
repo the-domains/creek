@@ -27,6 +27,9 @@ purpose:
   - type: contact
     url: 'tel:00971502758333'
     label: Call Now!
+  - type: contact
+    url: 'mailto:info@creek-transport.com'
+    label: Email Us
 title: When you care enough to send the very best
 description: Transport Solutions & Services
 author:
