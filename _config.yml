@@ -50,12 +50,12 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/creek_transport'
     type: external
-  - name: Facebook
-    url: 'https://www.facebook.com/creekgeneral.transport.1'
-    type: external
   - name: Our Customers
     id: d551d80c-0774-4148-b2ae-6a61d18160f6
     type: content
+  - name: Facebook
+    url: 'https://www.facebook.com/creekgeneral.transport.1'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
 title: When you care enough to send the very best
