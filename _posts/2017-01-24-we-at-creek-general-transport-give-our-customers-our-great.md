@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-24T13:40:28.389Z'
-datePublished: '2017-01-24T13:40:40.921Z'
+dateModified: '2017-01-24T13:41:03.766Z'
+datePublished: '2017-01-24T13:41:04.894Z'
 title: >-
   We at Creek General Transport … give our customers our greatest attention full
   of our core values, we believe that our customer satisfaction will always
@@ -11,10 +11,10 @@ author: []
 publisher: {}
 via: {}
 hasPage: true
-starred: false
-datePublishedOriginal: '2017-01-24T13:40:40.921Z'
 sourcePath: >-
   _posts/2017-01-24-we-at-creek-general-transport-give-our-customers-our-great.md
+starred: false
+datePublishedOriginal: '2017-01-24T13:40:40.921Z'
 url: we-at-creek-general-transport-give-our-customers-our-great/index.html
 _type: Article
 
