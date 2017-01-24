@@ -14,8 +14,8 @@ color:
   rhythmicContrast: 0.8413450415837256
 github: true
 opengraph:
-  type: ''
-  appId: ''
+  type: Pixel
+  appId: '1715905985406141'
 layout_spectrum: 0.4362337824037428
 analytics:
   facebook: '1715905985406141'
