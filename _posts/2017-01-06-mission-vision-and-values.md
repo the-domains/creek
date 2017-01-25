@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Our Vision,'
-dateModified: '2017-01-20T10:11:28.302Z'
-datePublished: '2017-01-20T10:11:33.786Z'
+dateModified: '2017-01-25T12:39:54.132Z'
+datePublished: '2017-01-25T12:39:55.193Z'
 title: ' Vision, Mission & Core Values'
 author: []
 publisher: {}
@@ -29,7 +29,7 @@ Our Mission is to work hard & create value to our clients by delivering superior
 
 ### **Quality:**
 
-We commit to delivering superior quality service. Pledging quality, flexibility and professionalism within our company guarantees that we are the customer's first choice when it comes to road transport.
+We commit to delivering superior quality service. We focus on continuous process management and improvement, waste reduction, customer satisfaction while observing safety in every aspect of the process.
 
 ### **Integrity:**
 
@@ -37,7 +37,7 @@ We always do the right thing. We work in a manner that demonstrates the highest 
 
 ### **Social Responsibility:**
 
-Our responsibility to society is a commitment.
+We incessantly engage with our stakeholders. We are committed to meeting the best standards through protecting the environment, safeguarding our employees and building trusted partnerships with our communities and customers.
 
 ### **Team Work:**
 
