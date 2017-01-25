@@ -1,31 +1,28 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   LACNOR is a part of National Food Products Company engaged in the
   manufacturing of fruit juices and dairy products since 1978. Creek having very
   good relationship with them and working together from 1990 onwards for the
   transportation of Juices, Milk Powder, Fruit Pulp, Tetra packs etc.
-dateModified: '2017-01-24T14:08:19.964Z'
-datePublished: '2017-01-24T14:08:22.159Z'
-title: >-
-  We at Creek General Transport … give our customers our greatest attention full
-  of our core values, we believe that our customer satisfaction will always
-  maintain our old reputation in the transportation business in UAE.
+dateModified: '2017-01-25T10:53:21.954Z'
+datePublished: '2017-01-25T10:53:31.691Z'
+title: LACNOR
 author: []
 publisher: {}
 via: {}
 hasPage: true
-starred: false
-datePublishedOriginal: '2017-01-24T14:08:18.205Z'
 sourcePath: >-
   _posts/2017-01-24-we-at-creek-general-transport-give-our-customers-our-great.md
+starred: false
+datePublishedOriginal: '2017-01-24T14:08:18.205Z'
 url: we-at-creek-general-transport-give-our-customers-our-great/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7171a092-9368-44f1-8630-82613e306ac5.jpg)
 
-# We at Creek General Transport ... give our customers our greatest attention full of our core values, we believe that our customer satisfaction will always maintain our old reputation in the transportation business in UAE.
+### We at Creek General Transport ... give our customers our greatest attention full of our core values, we believe that our customer satisfaction will always maintain our old reputation in the transportation business in UAE.
 
 ## LACNOR
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/065f0bf8-9366-4db7-9dba-073de43654ae.png)
