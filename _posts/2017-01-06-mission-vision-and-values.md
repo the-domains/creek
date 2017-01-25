@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Our Vision,'
-dateModified: '2017-01-25T12:39:54.132Z'
-datePublished: '2017-01-25T12:39:55.193Z'
+dateModified: '2017-01-25T13:43:12.223Z'
+datePublished: '2017-01-25T13:43:14.032Z'
 title: ' Vision, Mission & Core Values'
 author: []
 publisher: {}
