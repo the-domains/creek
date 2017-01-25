@@ -1,6 +1,17 @@
+name: Creek Transport
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
+layout_spectrum: 0.4362337824037428
 typography_spectrum: 0.40097677528185055
-content_rating:
-  adult: false
+analytics:
+  facebook: '1715905985406141'
+  google: UA-90536695-1
+  twitter: ''
+opengraph:
+  type: Pixel
+  appId: '1715905985406141'
 color:
   brandColors:
     - '#80BA27'
@@ -12,34 +23,33 @@ color:
   lightness: 0.7419894306303583
   saturation: 0.8665411694974887
   rhythmicContrast: 0.8413450415837256
-github: true
-opengraph:
-  type: Pixel
-  appId: '1715905985406141'
-layout_spectrum: 0.4362337824037428
-analytics:
-  facebook: '1715905985406141'
-  google: UA-90536695-1
-  twitter: ''
+purpose:
+  - type: contact
+    label: Call Now!
+    url: 'tel:00971502758333'
+  - type: contact
+    label: Email Us
+    url: 'mailto:info@creektransport.com'
+title: When you care enough to send the very best
+description: Transport Solutions & Services
 author:
   name: Projectized.co
   url: 'http://projectized.co'
   email: moemen@projectized.co
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
-name: Creek Transport
+content_rating:
+  adult: false
 navigation:
   - name: Why GC Transport?
     id: 46276743-3ca0-4bae-a93d-8fecea1c9804
-    type: content
-  - name: About Us
-    id: 19aa20fb-9edd-4c4c-8092-ea385ac8be16
     type: content
   - name: 'Mission, Vision & Values'
     id: 68e90db3-95b1-454c-8cba-272e98329b69
     type: content
   - name: Services
     id: d55961db-d434-45b9-9d9e-81478ebc1e75
+    type: content
+  - name: About Us
+    id: 19aa20fb-9edd-4c4c-8092-ea385ac8be16
     type: content
   - name: Our Policies
     id: cc2a6386-b102-42c5-b814-df74f625df50
@@ -59,9 +69,6 @@ navigation:
   - name: LinkedIn
     url: 'https://ae.linkedin.com/in/creekgeneral-transport-42917b137'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
-title: When you care enough to send the very best
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -71,19 +78,16 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d0685a6-1a80-40cd-bc9f-29331a26c173.png
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      datePublished: null
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -95,28 +99,17 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/24664c45-72f3-4d90-ac6d-aa9f7a0a2df4.png
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      datePublished: null
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Transport Solutions & Services
-purpose:
-  - type: contact
-    url: 'tel:00971502758333'
-    label: Call Now!
-  - type: contact
-    url: 'mailto:info@creektransport.com'
-    label: Email Us
+github: true
