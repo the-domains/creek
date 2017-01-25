@@ -5,8 +5,8 @@ description: >-
   manufacturing of fruit juices and dairy products since 1978. Creek having very
   good relationship with them and working together from 1990 onwards for the
   transportation of Juices, Milk Powder, Fruit Pulp, Tetra packs etc.
-dateModified: '2017-01-25T14:22:52.542Z'
-datePublished: '2017-01-25T14:22:53.423Z'
+dateModified: '2017-01-25T14:23:18.150Z'
+datePublished: '2017-01-25T14:23:20.316Z'
 title: LACNOR
 author: []
 publisher: {}
@@ -68,3 +68,4 @@ Based in RAK, UAE is one of the fastest growing name in Manufacturing, Distribut
 Corporate Office is situated in United Arab Emirates (Hamriyah Free Zone, Sharjah) with global presence at several locations that inter alia includes India sub-continent, South East Asia, Africa, Europe and South America. Core activity includes Oil Trading & Bunkering, Oil Refining, Grease Manufacturing, Oil Storage Terminals, Bitumen Manufacturing and Shipping & Logistics. Supporting them by providing Bulk Bitumen tankers and Chemical tankers to transport Xylene, Toluene, Butanol etc.
 
 ## Liberty Automobiles Co.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad5515b2-ae1b-45c7-8b0a-fa51cd9e5d44.png)
