@@ -44,11 +44,11 @@ navigation:
   - name: Our Policies
     id: cc2a6386-b102-42c5-b814-df74f625df50
     type: content
-  - name: Contact Us
-    id: b0ffd366-b54a-4fb0-b58b-be09631f0ee0
-    type: content
   - name: Our Customers
     id: d551d80c-0774-4148-b2ae-6a61d18160f6
+    type: content
+  - name: Contact Us
+    id: b0ffd366-b54a-4fb0-b58b-be09631f0ee0
     type: content
   - name: Facebook
     url: 'https://www.facebook.com/creekgeneral.transport.1'
