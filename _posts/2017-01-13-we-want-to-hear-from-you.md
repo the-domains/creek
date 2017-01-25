@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Contact Us:'
-dateModified: '2017-01-20T10:11:28.302Z'
-datePublished: '2017-01-20T10:11:34.276Z'
+dateModified: '2017-01-25T13:43:12.223Z'
+datePublished: '2017-01-25T13:43:14.804Z'
 title: WE WANT TO HEAR FROM YOU!
 author: []
 publisher: {}
@@ -25,4 +25,10 @@ Tel: +971 6 5285151
 
 Fax: +971 6 5282405
 
-Email: info@creek-transport.com
+Email: info@creektransport.com
+
+> The latest Tweets and replies from Creek Transport (@creek\_transport). Creek General Transport is one of the first & leading Transport Company in UAE Sharjah established in 1977 and has been a major player in the Road Transport ind. Sharjah, United Arab Emirates
+
+LinkedIn Account:
+
+---
