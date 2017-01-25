@@ -62,28 +62,7 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
 title: When you care enough to send the very best
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ae8e4aa-0e18-4820-b187-c2bfdfb51c19.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ae8e4aa-0e18-4820-b187-c2bfdfb51c19.png
-    metadata:
-      '@type': MediaObject
-      '@context': 'http://schema.org'
-      keywords: []
-      publisher:
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-      author: []
-      starred: false
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: Transport Solutions & Services
 purpose:
   - type: contact
