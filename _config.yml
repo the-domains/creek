@@ -39,9 +39,6 @@ author:
 content_rating:
   adult: false
 navigation:
-  - name: Why GC Transport?
-    id: 46276743-3ca0-4bae-a93d-8fecea1c9804
-    type: content
   - name: 'Mission, Vision & Values'
     id: 68e90db3-95b1-454c-8cba-272e98329b69
     type: content
@@ -69,6 +66,9 @@ navigation:
   - name: LinkedIn
     url: 'https://ae.linkedin.com/in/creekgeneral-transport-42917b137'
     type: external
+  - name: Why GC Transport?
+    id: 46276743-3ca0-4bae-a93d-8fecea1c9804
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
