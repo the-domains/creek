@@ -1,16 +1,16 @@
 ---
-inFeed: false
-description: 'Our Vision,'
-dateModified: '2017-01-25T13:43:12.223Z'
-datePublished: '2017-01-25T13:43:14.032Z'
 title: ' Vision, Mission & Core Values'
-author: []
+datePublished: '2017-02-04T13:46:58.120Z'
+dateModified: '2017-02-04T13:46:52.195Z'
 publisher: {}
-via: {}
-sourcePath: _posts/2017-01-06-mission-vision-and-values.md
+author: []
+inFeed: false
 hasPage: true
+description: 'Our Vision,'
+via: {}
 starred: false
 datePublishedOriginal: '2017-01-06T18:13:14.830Z'
+sourcePath: _posts/2017-01-06-mission-vision-and-values.md
 url: mission-vision-and-values/index.html
 _type: Blurb
 
@@ -41,6 +41,4 @@ We incessantly engage with our stakeholders. We are committed to meeting the bes
 
 ### **Team Work:**
 
-We believe in team work. Each member in our diverse team is respected and recognized to promote a healthy and
-
-positive work environment.
+We believe in team work. Each member in our diverse team is respected and recognized to promote a healthy and positive work environment.
