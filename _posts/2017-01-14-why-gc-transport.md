@@ -1,7 +1,7 @@
 ---
-title: Why Creek G. Transport?
-datePublished: '2017-02-04T13:43:32.543Z'
-dateModified: '2017-02-04T13:43:22.093Z'
+title: Why CGT?
+datePublished: '2017-02-04T13:44:36.120Z'
+dateModified: '2017-02-04T13:44:27.808Z'
 publisher: {}
 author: []
 inFeed: false
@@ -20,7 +20,7 @@ url: why-gc-transport/index.html
 _type: Blurb
 
 ---
-# Why Creek G. Transport?
+# Why CGT?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab8302f1-b4f9-468c-855f-ca60d2a32c30.png)
 
 ## Safety:
@@ -37,7 +37,7 @@ At CGT, learning is an on-going process; thus, drivers are given periodic traini
 
 ## Quality:
 
-In , providing the best quality of service to customers is the key driver for our business. We work hard to achieve this through:
+In CGT, providing the best quality of service to customers is the key driver for our business. We work hard to achieve this through:
 
 - Clear understanding of customer requirements to reduce complaint level
 
