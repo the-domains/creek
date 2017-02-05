@@ -11,7 +11,7 @@ color:
   lightness: 0.8630610555976556
   saturation: 0.3255053249545543
   rhythmicContrast: 0.2696504100999509
-name: Creek Genral Transport
+name: Creek General Transport
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
 logo: >-
@@ -69,47 +69,5 @@ navigation:
   - name: Why GC Transport?
     id: 46276743-3ca0-4bae-a93d-8fecea1c9804
     type: content
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d0685a6-1a80-40cd-bc9f-29331a26c173.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d0685a6-1a80-40cd-bc9f-29331a26c173.png
-    metadata:
-      '@type': MediaObject
-      '@context': 'http://schema.org'
-      keywords: []
-      publisher:
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-      author: []
-      starred: false
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24664c45-72f3-4d90-ac6d-aa9f7a0a2df4.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/24664c45-72f3-4d90-ac6d-aa9f7a0a2df4.png
-    metadata:
-      '@type': MediaObject
-      '@context': 'http://schema.org'
-      keywords: []
-      publisher:
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-      author: []
-      starred: false
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 github: true
