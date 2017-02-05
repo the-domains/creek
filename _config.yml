@@ -1,5 +1,5 @@
-layout_spectrum: 0.752811331696126
-typography_spectrum: 0.4979369834130907
+layout_spectrum: 0.5033127631309746
+typography_spectrum: 0.49077725310653153
 color:
   brandColors:
     - '#80BA27'
@@ -7,10 +7,10 @@ color:
     - '#C3DF9B'
     - '#7C7A7B'
     - '#F58A93'
-  brandStrength: 0.9480100944712941
-  lightness: 0.7452940939405546
-  saturation: 0.8677227683309097
-  rhythmicContrast: 0.849839917281827
+  brandStrength: 0.3425204787547193
+  lightness: 0.8630610555976556
+  saturation: 0.3255053249545543
+  rhythmicContrast: 0.2696504100999509
 name: Creek Genral Transport
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
