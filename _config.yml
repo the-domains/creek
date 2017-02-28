@@ -1,5 +1,17 @@
+name: Creek General Transport
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
 layout_spectrum: 0.90597305529714
 typography_spectrum: 0.22478752034873065
+analytics:
+  facebook: '1715905985406141'
+  google: UA-90536695-1
+  twitter: ''
+opengraph:
+  type: Pixel
+  appId: '1715905985406141'
 color:
   brandColors:
     - '#80BA27'
@@ -11,18 +23,6 @@ color:
   lightness: 0.9774703524184256
   saturation: 0.9261846444991851
   rhythmicContrast: 0.6790982873029638
-name: Creek General Transport
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1206424e-4977-4f51-86b9-46f9ec5f0d4a.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/554dd206-1efe-471f-815d-b90684e6bee5.png
-analytics:
-  facebook: '1715905985406141'
-  google: UA-90536695-1
-  twitter: ''
-opengraph:
-  type: Pixel
-  appId: '1715905985406141'
 purpose:
   - type: contact
     label: Call Now!
@@ -39,6 +39,9 @@ author:
 content_rating:
   adult: false
 navigation:
+  - name: Why GC Transport?
+    id: 46276743-3ca0-4bae-a93d-8fecea1c9804
+    type: content
   - name: 'Mission, Vision & Values'
     id: 68e90db3-95b1-454c-8cba-272e98329b69
     type: content
@@ -66,9 +69,6 @@ navigation:
   - name: LinkedIn
     url: 'https://ae.linkedin.com/in/creekgeneral-transport-42917b137'
     type: external
-  - name: Why GC Transport?
-    id: 46276743-3ca0-4bae-a93d-8fecea1c9804
-    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -79,16 +79,10 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: Moemen Fouad
-          url: 'https://www.youtube.com/user/lickyslicky'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
+      '@type': VideoObject
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/I_xiFzoh55o'
+      inLanguage: en
       keywords:
         - duration
         - views
@@ -100,50 +94,18 @@ content:
         - trains
         - newshour
         - archive
-      description: Creek General Transport - Fleet Slide Show
-      inLanguage: en
-      '@type': VideoObject
-      app_links:
-        - url: 'vnd.youtube://www.youtube.com/watch?v=I_xiFzoh55o&feature=applinks'
-          type: ios
-          namespace: ai
-          app_store_id: '544007664'
-          app_name: YouTube
-        - url: 'vnd.youtube://www.youtube.com/watch?v=I_xiFzoh55o&feature=applinks'
-          type: android
-          namespace: ai
-          app_name: YouTube
-          package: com.google.android.youtube
-        - url: 'https://www.youtube.com/watch?v=I_xiFzoh55o&feature=applinks'
-          type: web
-          namespace: ai
-        - url: 'vnd.youtube://www.youtube.com/watch?v=I_xiFzoh55o&feature=applinks'
-          namespace: twitter
-          type: ipad
-          name: YouTube
-          id: '544007664'
-        - url: 'vnd.youtube://www.youtube.com/watch?v=I_xiFzoh55o&feature=applinks'
-          namespace: twitter
-          type: iphone
-          name: YouTube
-          id: '544007664'
-        - url: 'https://www.youtube.com/watch?v=I_xiFzoh55o'
-          namespace: twitter
-          type: googleplay
-          name: YouTube
-          id: com.google.android.youtube
-        - path: http/www.youtube.com/watch?v=I_xiFzoh55o
-          package: com.google.android.youtube
-          namespace: google
-          type: android
-        - path: vnd.youtube/www.youtube.com/watch?v=I_xiFzoh55o
-          package: '544007664'
-          namespace: google
-          type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/I_xiFzoh55o'
       title: Creek General Transport
-      datePublished: null
+      publisher:
+        name: YouTube
+        domain: youtu.be
+        url: 'https://www.youtube.com/'
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+      author:
+        - name: Moemen Fouad
+          url: 'https://www.youtube.com/user/lickyslicky'
+          avatar: {}
+      starred: false
+      description: Creek General Transport - Fleet Slide Show
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -156,16 +118,10 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: Moemen Fouad
-          url: 'https://www.youtube.com/user/lickyslicky'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
+      '@type': VideoObject
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/I_xiFzoh55o'
+      inLanguage: en
       keywords:
         - duration
         - views
@@ -177,50 +133,18 @@ content:
         - trains
         - newshour
         - archive
-      description: Creek General Transport - Fleet Slide Show
-      inLanguage: en
-      '@type': VideoObject
-      app_links:
-        - url: 'vnd.youtube://www.youtube.com/watch?v=I_xiFzoh55o&feature=applinks'
-          type: ios
-          namespace: ai
-          app_store_id: '544007664'
-          app_name: YouTube
-        - url: 'vnd.youtube://www.youtube.com/watch?v=I_xiFzoh55o&feature=applinks'
-          type: android
-          namespace: ai
-          app_name: YouTube
-          package: com.google.android.youtube
-        - url: 'https://www.youtube.com/watch?v=I_xiFzoh55o&feature=applinks'
-          type: web
-          namespace: ai
-        - url: 'vnd.youtube://www.youtube.com/watch?v=I_xiFzoh55o&feature=applinks'
-          namespace: twitter
-          type: ipad
-          name: YouTube
-          id: '544007664'
-        - url: 'vnd.youtube://www.youtube.com/watch?v=I_xiFzoh55o&feature=applinks'
-          namespace: twitter
-          type: iphone
-          name: YouTube
-          id: '544007664'
-        - url: 'https://www.youtube.com/watch?v=I_xiFzoh55o'
-          namespace: twitter
-          type: googleplay
-          name: YouTube
-          id: com.google.android.youtube
-        - path: http/www.youtube.com/watch?v=I_xiFzoh55o
-          package: com.google.android.youtube
-          namespace: google
-          type: android
-        - path: vnd.youtube/www.youtube.com/watch?v=I_xiFzoh55o
-          package: '544007664'
-          namespace: google
-          type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/I_xiFzoh55o'
       title: Creek General Transport
-      datePublished: null
+      publisher:
+        name: YouTube
+        domain: youtu.be
+        url: 'https://www.youtube.com/'
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+      author:
+        - name: Moemen Fouad
+          url: 'https://www.youtube.com/user/lickyslicky'
+          avatar: {}
+      starred: false
+      description: Creek General Transport - Fleet Slide Show
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
